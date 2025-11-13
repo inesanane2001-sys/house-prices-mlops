@@ -156,14 +156,6 @@ house-prices-mlops/
 | Pipelines & Expérimentation | 4 jours |  **À venir** |
 | Déploiement & Monitoring | 3 jours |  **À venir** |
 
-##  Contact
-Pour toute question concernant ce projet :
--  Email : [votre-email]
--  Issues : [GitHub Issues du projet]
--  Slack/Teams : [Lien vers votre channel]
-
 ---
 
-**✨ "Codez comme si la personne qui maintiendra votre code était un psychopathe qui connaît votre adresse." - Martin Golding**
-
-*Last updated: ${new Date().toLocaleDateString()}*
+** "Codez comme si la personne qui maintiendra votre code était un psychopathe qui connaît votre adresse." - Martin Golding**
