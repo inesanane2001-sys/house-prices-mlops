@@ -27,47 +27,89 @@ Le projet consiste à développer un modèle de **régression** capable de préd
 
 ##  Structure du projet
 house-prices-mlops/
+\
 │
+\
 ├──  data/ # Données
+\
 │ ├── raw/ # Données brutes (originales)
+\
 │ ├── processed/ # Données transformées
+\
 │ └── external/ # Données externes
+\
 │
+\
 ├──  models/ # Modèles entraînés
+\
 │ ├── model.pkl # Modèle sérialisé
+\
 │ └── model_metrics.json # Métriques des modèles
+\
 │
+\
 ├──  notebooks/ # Notebooks d'exploration
+\
 │ ├── 01_data_exploration.ipynb # Analyse exploratoire
+\
 │ ├── 02_feature_engineering.ipynb # Ingénierie des features
+\
 │ └── house_prices_poc.ipynb # Preuve de concept initiale
+\
 │
+\
 ├──  src/ # Code source structuré
+\
 │ ├── data/ # Processing des données
+\
 │ │ ├── init.py
+\
 │ │ ├── preprocess.py
+\
 │ │ └── feature_engineering.py
+\
 │ │
+\
 │ ├── models/ # Entraînement des modèles
+\
 │ │ ├── init.py
+\
 │ │ ├── train.py
+\
 │ │ └── evaluate.py
+\
 │ │
+\
 │ └── utils/ # Utilitaires
+\
 │ ├── init.py
+\
 │ └── config.py
+\
 │
+\
 ├──  tests/ # Tests unitaires
+\
 │ ├── test_data.py
+\
 │ └── test_models.py
+\
 │
+\
 ├──  docs/ # Documentation
+\
 │ ├── methodology.md
+\
 │ └── results.md
+\
 │
+\
 ├──  requirements.txt # Dépendances Python
+\
 ├──  .gitignore # Fichiers ignorés par Git
+\
 ├──  README.md # Ce fichier
+\
 └──  setup.py # Installation du package
 
 
