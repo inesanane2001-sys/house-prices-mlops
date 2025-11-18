@@ -14,9 +14,9 @@ pip-log.txt
 # Données et modèles (ne pas versionner les gros fichiers)
 #data/
 #models/
-data/raw/           ← AJOUTE ÇA
-data/processed/     ← AJOUTE ÇA
-models/             ← LAISSE COMME ÇA
+data/raw/           ← ON A AJOUTE
+data/processed/     ← ON A AJOUTE
+models/             ← PN A LAISSE COMME ÇA
 
 # Notebooks checkpoints
 *.ipynb_checkpoints/
