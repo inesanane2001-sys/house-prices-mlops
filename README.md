@@ -145,8 +145,8 @@ house-prices-mlops/
 - [ ] Re-entraînement automatique
 
 ##  Équipe
-- **Team Lead :** [Votre nom]
-- **ML Engineer :** [Nom de ta binome]
+- **Team Lead :** ines anane
+- **ML Engineer :** zeineb ben naceur & maram jouini
 
 ##  Planning
 | Phase | Durée | Statut |
